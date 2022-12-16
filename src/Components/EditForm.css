@@ -1,0 +1,35 @@
+.edit-card{
+    text-align: center !important;
+    justify-content: center !important;
+}
+
+Button{
+    margin: 0 .2em;
+}
+
+.edit-card-envelope{
+    background-color: rgb(219, 208, 208);
+    /* width: 10em; */
+    margin-top: 30%;
+    hyphens:  auto;
+    margin: 2em auto;
+    border-radius: 10px;
+    /* word-break: break-word  !important; */
+    /* word-wrap: break-word !important; */
+    /* margin: 2em; */
+    width: 40%;
+    border: 1px solid rgb(5, 5, 5);
+    text-align: center !important;
+    padding: 2em !important;
+    /* position: relative; */
+    
+}
+
+.edit-card-button{
+    margin: .5em 1em;
+}
+  .data{
+    font-size: 36;
+    align-self: auto;
+    color: red;
+  }
